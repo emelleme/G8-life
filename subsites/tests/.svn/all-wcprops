@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/109867/open/modules/subsites/trunk/tests
+END
+SiteConfigSubsitesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/101402/open/modules/subsites/trunk/tests/SiteConfigSubsitesTest.php
+END
+GroupSubsitesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/101402/open/modules/subsites/trunk/tests/GroupSubsitesTest.php
+END
+SubsiteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/103780/open/modules/subsites/trunk/tests/SubsiteTest.php
+END
+FileSubsitesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/101885/open/modules/subsites/trunk/tests/FileSubsitesTest.php
+END
+LeftAndMainSubsitesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/108497/open/modules/subsites/trunk/tests/LeftAndMainSubsitesTest.php
+END
+SubsitesVirtualPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/107281/open/modules/subsites/trunk/tests/SubsitesVirtualPageTest.php
+END
+SiteTreeSubsitesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/109867/open/modules/subsites/trunk/tests/SiteTreeSubsitesTest.php
+END
+SubsiteAdminTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/108865/open/modules/subsites/trunk/tests/SubsiteAdminTest.php
+END
+SubsiteTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/101402/open/modules/subsites/trunk/tests/SubsiteTest.yml
+END

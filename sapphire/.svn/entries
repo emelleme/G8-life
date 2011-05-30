@@ -1,0 +1,223 @@
+8
+
+dir
+107921
+http://svn.silverstripe.com/open/modules/sapphire/branches/2.4
+http://svn.silverstripe.com
+
+
+
+2010-07-14T02:51:16.642184Z
+107878
+ischommer
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+parsers
+dir
+
+profiler
+dir
+
+conf
+dir
+
+email
+dir
+
+core
+dir
+
+_config.php
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+c365605180eac2611e806c57b0e63db2
+2010-05-24T00:15:02.590205Z
+105468
+sminnee
+has-props
+
+thirdparty
+dir
+
+_register_database.php
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+309df28345d486b65b680846fa00e7a7
+2010-05-12T12:33:31.917114Z
+104705
+sharvey
+
+cli-script.php
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+018b816ed9829fd41ed541d9567115f5
+2010-07-01T03:26:06.743282Z
+107369
+sharvey
+has-props
+
+tests
+dir
+
+cache
+dir
+
+search
+dir
+
+images
+dir
+
+javascript
+dir
+
+main.php
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+180c8573a7b533fb35865f6d79c27bdd
+2010-04-26T05:52:00.124433Z
+103485
+ischommer
+has-props
+
+.htaccess
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+fa28fa9f2e547548be68cf3fc8ad3ff3
+2009-04-28T23:52:15.837704Z
+75579
+sharvey
+
+Makefile
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+1f881eee6256c97e9e96c6ff87e11e2a
+2010-05-12T05:28:09.256677Z
+104666
+sminnee
+
+dev
+dir
+
+lang
+dir
+
+sake
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+2f4232ad39427bc7b6ee9b01b7b70241
+2010-05-12T05:28:10.455033Z
+104668
+sminnee
+has-props
+
+integration
+dir
+
+filesystem
+dir
+
+tasks
+dir
+
+forms
+dir
+
+css
+dir
+
+templates
+dir
+
+main.php5
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+91b2cf3c854555c5e9117ee1d2b3ce32
+2009-03-22T22:59:14.246374Z
+73509
+ischommer
+has-props
+
+static-main.php
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+0bc3810d83052ee04323a14de297e6bb
+2010-05-03T22:48:59.045333Z
+103961
+ischommer
+
+silverstripe_version
+file
+
+
+
+
+2010-07-14T17:05:34.000000Z
+b86a3362270757737e5c12d2ada329b4
+2007-12-14T04:35:28.766562Z
+46908
+ischommer
+has-props
+
+widgets
+dir
+
+security
+dir
+
+cli
+dir
+
+api
+dir
+

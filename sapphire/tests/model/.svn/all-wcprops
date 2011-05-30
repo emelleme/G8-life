@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/107537/open/modules/sapphire/branches/2.4/tests/model
+END
+MySQLDatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/103799/open/modules/sapphire/branches/2.4/tests/model/MySQLDatabaseTest.php
+END
+SiteConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/104796/open/modules/sapphire/branches/2.4/tests/model/SiteConfigTest.php
+END
+ImageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/107272/open/modules/sapphire/branches/2.4/tests/model/ImageTest.yml
+END
+DatetimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/91568/open/modules/sapphire/branches/2.4/tests/model/DatetimeTest.php
+END
+DataObjectSchemaGenerationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/103799/open/modules/sapphire/branches/2.4/tests/model/DataObjectSchemaGenerationTest.php
+END
+VirtualPageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/model/VirtualPageTest.yml
+END
+VersionedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/107537/open/modules/sapphire/branches/2.4/tests/model/VersionedTest.php
+END
+AggregateTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/97390/open/modules/sapphire/branches/2.4/tests/model/AggregateTest.yml
+END
+MoneyTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/model/MoneyTest.yml
+END
+DbDatetimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/105198/open/modules/sapphire/branches/2.4/tests/model/DbDatetimeTest.php
+END
+DatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/106119/open/modules/sapphire/branches/2.4/tests/model/DatabaseTest.php
+END
+SiteConfigTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/97370/open/modules/sapphire/branches/2.4/tests/model/SiteConfigTest.yml
+END
+DBLocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/93771/open/modules/sapphire/branches/2.4/tests/model/DBLocaleTest.php
+END
+VersionedTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/model/VersionedTest.yml
+END
+DbDatetimeTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/105196/open/modules/sapphire/branches/2.4/tests/model/DbDatetimeTest.yml
+END
+CompositeDBFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/96734/open/modules/sapphire/branches/2.4/tests/model/CompositeDBFieldTest.php
+END
+TranslatableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/103819/open/modules/sapphire/branches/2.4/tests/model/TranslatableTest.php
+END
+HierarchyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/98403/open/modules/sapphire/branches/2.4/tests/model/HierarchyTest.php
+END
+ComponentSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/99654/open/modules/sapphire/branches/2.4/tests/model/ComponentSetTest.php
+END
+ImageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/107272/open/modules/sapphire/branches/2.4/tests/model/ImageTest.php
+END
+VirtualPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/101493/open/modules/sapphire/branches/2.4/tests/model/VirtualPageTest.php
+END
+AggregateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/103640/open/modules/sapphire/branches/2.4/tests/model/AggregateTest.php
+END
+TranslatableTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/model/TranslatableTest.yml
+END
+MoneyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/96734/open/modules/sapphire/branches/2.4/tests/model/MoneyTest.php
+END
+HierarchyTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/98376/open/modules/sapphire/branches/2.4/tests/model/HierarchyTest.yml
+END
+ComponentSetTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/99654/open/modules/sapphire/branches/2.4/tests/model/ComponentSetTest.yml
+END

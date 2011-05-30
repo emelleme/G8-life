@@ -1,0 +1,70 @@
+8
+
+dir
+107921
+http://svn.silverstripe.com/open/modules/sapphire/branches/2.4/thirdparty/jquery-metadata
+http://svn.silverstripe.com
+
+
+
+2010-03-11T02:29:18.743433Z
+100846
+ischommer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+test
+dir
+
+jquery.metadata.js
+file
+
+
+
+
+2010-07-14T17:05:21.000000Z
+0b52f365186597d68b6114817b8b2a22
+2010-03-11T02:29:18.743433Z
+100846
+ischommer
+has-props
+
+README
+file
+
+
+
+
+2010-07-14T17:05:21.000000Z
+fdc0c0af7146161b7a20aa5d5c2971d2
+2010-03-11T02:29:18.743433Z
+100846
+ischommer
+has-props
+
+META.json
+file
+
+
+
+
+2010-07-14T17:05:21.000000Z
+ead57c7403365ad6c18aeed553931f97
+2010-03-11T02:29:18.743433Z
+100846
+ischommer
+has-props
+

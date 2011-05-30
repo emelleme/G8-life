@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/96830/open/modules/sapphire/branches/2.4/tests/widgets
+END
+WidgetControllerTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/widgets/WidgetControllerTest.yml
+END
+WidgetControllerTestPage.ss
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/widgets/WidgetControllerTestPage.ss
+END
+WidgetControllerTestPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/widgets/WidgetControllerTestPage.php
+END
+WidgetControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/96830/open/modules/sapphire/branches/2.4/tests/widgets/WidgetControllerTest.php
+END
+WidgetControllerTest_Widget.ss
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/widgets/WidgetControllerTest_Widget.ss
+END

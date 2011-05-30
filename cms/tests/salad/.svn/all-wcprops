@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/104078/open/modules/cms/branches/2.4/tests/salad
+END
+login.feature
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/103375/open/modules/cms/branches/2.4/tests/salad/login.feature
+END
+logout.feature
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/103375/open/modules/cms/branches/2.4/tests/salad/logout.feature
+END
+delete-page.feature
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/103375/open/modules/cms/branches/2.4/tests/salad/delete-page.feature
+END
+create-page.feature
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/103375/open/modules/cms/branches/2.4/tests/salad/create-page.feature
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/104077/open/modules/cms/branches/2.4/tests/salad/README.md
+END

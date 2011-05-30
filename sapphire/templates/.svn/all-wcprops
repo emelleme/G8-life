@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/105266/open/modules/sapphire/branches/2.4/templates
+END
+RSSFeed.ss
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/RSSFeed.ss
+END
+TableField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/TableField.ss
+END
+CodeViewer.ss
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/CodeViewer.ss
+END
+ModelViewer_dotsrc.ss
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/ModelViewer_dotsrc.ss
+END
+TestViewer.ss
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/TestViewer.ss
+END
+SelectionGroup.ss
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/SelectionGroup.ss
+END
+RightLabelledFieldHolder.ss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/RightLabelledFieldHolder.ss
+END
+Image_iframe.ss
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/Image_iframe.ss
+END
+ComplexTableField_popup.ss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/ComplexTableField_popup.ss
+END
+FileIFrameField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/93514/open/modules/sapphire/branches/2.4/templates/FileIFrameField.ss
+END
+ToggleCompositeField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/ToggleCompositeField.ss
+END
+WidgetArea.ss
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/WidgetArea.ss
+END
+ContentController.ss
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/98432/open/modules/sapphire/branches/2.4/templates/ContentController.ss
+END
+RelationComplexTableField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/105266/open/modules/sapphire/branches/2.4/templates/RelationComplexTableField.ss
+END
+WidgetHolder.ss
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/WidgetHolder.ss
+END
+ModelViewer.ss
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/ModelViewer.ss
+END
+ComplexTableField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/105266/open/modules/sapphire/branches/2.4/templates/ComplexTableField.ss
+END
+SilverStripeNavigatorLink.ss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/99088/open/modules/sapphire/branches/2.4/templates/SilverStripeNavigatorLink.ss
+END
+TabSetFieldHolder.ss
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/TabSetFieldHolder.ss
+END
+SapphireInfo.ss
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/SapphireInfo.ss
+END
+TableListField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/105266/open/modules/sapphire/branches/2.4/templates/TableListField.ss
+END
+TableListField_printable.ss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/TableListField_printable.ss
+END
+SearchForm.ss
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/SearchForm.ss
+END

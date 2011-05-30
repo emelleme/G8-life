@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 182
+blackcandy http://svn.silverstripe.com/open/themes/blackcandy/branches/2.4/blackcandy
+blackcandy_blog http://svn.silverstripe.com/open/themes/blackcandy/branches/2.4/blackcandy_blog
+
+END

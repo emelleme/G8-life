@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/103398/open/modules/sapphire/branches/2.4/search/filters
+END
+GreaterThanFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/search/filters/GreaterThanFilter.php
+END
+NegationFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/search/filters/NegationFilter.php
+END
+EndsWithFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/search/filters/EndsWithFilter.php
+END
+SearchFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/93860/open/modules/sapphire/branches/2.4/search/filters/SearchFilter.php
+END
+FulltextFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/search/filters/FulltextFilter.php
+END
+StartsWithMultiFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/103398/open/modules/sapphire/branches/2.4/search/filters/StartsWithMultiFilter.php
+END
+PartialMatchFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/search/filters/PartialMatchFilter.php
+END
+ExactMatchMultiFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/search/filters/ExactMatchMultiFilter.php
+END
+StartsWithFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/search/filters/StartsWithFilter.php
+END
+WithinRangeFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/search/filters/WithinRangeFilter.php
+END
+SubstringFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/search/filters/SubstringFilter.php
+END
+ExactMatchFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/search/filters/ExactMatchFilter.php
+END
+LessThanFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/95388/open/modules/sapphire/branches/2.4/search/filters/LessThanFilter.php
+END

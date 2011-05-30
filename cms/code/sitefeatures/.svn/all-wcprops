@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/105514/open/modules/cms/branches/2.4/code/sitefeatures
+END
+Akismet.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/sitefeatures/Akismet.php
+END
+PageComment.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/104968/open/modules/cms/branches/2.4/code/sitefeatures/PageComment.php
+END
+PageCommentInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/105514/open/modules/cms/branches/2.4/code/sitefeatures/PageCommentInterface.php
+END
+MathSpamProtection.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/95194/open/modules/cms/branches/2.4/code/sitefeatures/MathSpamProtection.php
+END
+SSAkismet.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/104402/open/modules/cms/branches/2.4/code/sitefeatures/SSAkismet.php
+END

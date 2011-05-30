@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/107867/open/modules/sapphire/branches/2.4/tests/security
+END
+PermissionCheckboxSetFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/94887/open/modules/sapphire/branches/2.4/tests/security/PermissionCheckboxSetFieldTest.yml
+END
+MemberCsvBulkLoaderTest.csv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/98714/open/modules/sapphire/branches/2.4/tests/security/MemberCsvBulkLoaderTest.csv
+END
+GroupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/100693/open/modules/sapphire/branches/2.4/tests/security/GroupTest.php
+END
+MemberCsvBulkLoaderTest_cleartextpws.csv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/99645/open/modules/sapphire/branches/2.4/tests/security/MemberCsvBulkLoaderTest_cleartextpws.csv
+END
+MemberCsvBulkLoaderTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/98714/open/modules/sapphire/branches/2.4/tests/security/MemberCsvBulkLoaderTest.yml
+END
+MemberAuthenticatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/100723/open/modules/sapphire/branches/2.4/tests/security/MemberAuthenticatorTest.php
+END
+PermissionTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/security/PermissionTest.yml
+END
+BasicAuthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/107867/open/modules/sapphire/branches/2.4/tests/security/BasicAuthTest.php
+END
+GroupTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/security/GroupTest.yml
+END
+MemberTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/107532/open/modules/sapphire/branches/2.4/tests/security/MemberTest.php
+END
+SecurityTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/104016/open/modules/sapphire/branches/2.4/tests/security/SecurityTest.php
+END
+PasswordEncryptorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/91592/open/modules/sapphire/branches/2.4/tests/security/PasswordEncryptorTest.php
+END
+PasswordValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/106687/open/modules/sapphire/branches/2.4/tests/security/PasswordValidatorTest.php
+END
+PermissionRoleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/100693/open/modules/sapphire/branches/2.4/tests/security/PermissionRoleTest.php
+END
+GroupCsvBulkLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/101491/open/modules/sapphire/branches/2.4/tests/security/GroupCsvBulkLoaderTest.php
+END
+BasicAuthTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/107867/open/modules/sapphire/branches/2.4/tests/security/BasicAuthTest.yml
+END
+PermissionCheckboxSetFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/100693/open/modules/sapphire/branches/2.4/tests/security/PermissionCheckboxSetFieldTest.php
+END
+MemberTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/107326/open/modules/sapphire/branches/2.4/tests/security/MemberTest.yml
+END
+GroupCsvBulkLoaderTest.csv
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/98715/open/modules/sapphire/branches/2.4/tests/security/GroupCsvBulkLoaderTest.csv
+END
+PermissionRoleTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/94887/open/modules/sapphire/branches/2.4/tests/security/PermissionRoleTest.yml
+END
+SecurityDefaultAdminTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/97652/open/modules/sapphire/branches/2.4/tests/security/SecurityDefaultAdminTest.php
+END
+MemberCsvBulkLoaderTest_withGroups.csv
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/98714/open/modules/sapphire/branches/2.4/tests/security/MemberCsvBulkLoaderTest_withGroups.csv
+END
+GroupCsvBulkLoaderTest_withExisting.csv
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/98715/open/modules/sapphire/branches/2.4/tests/security/GroupCsvBulkLoaderTest_withExisting.csv
+END
+GroupCsvBulkLoaderTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/98715/open/modules/sapphire/branches/2.4/tests/security/GroupCsvBulkLoaderTest.yml
+END
+MemberCsvBulkLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/99645/open/modules/sapphire/branches/2.4/tests/security/MemberCsvBulkLoaderTest.php
+END
+PermissionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/98142/open/modules/sapphire/branches/2.4/tests/security/PermissionTest.php
+END

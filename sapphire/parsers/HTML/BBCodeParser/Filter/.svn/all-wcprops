@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/parsers/HTML/BBCodeParser/Filter
+END
+Lists.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/parsers/HTML/BBCodeParser/Filter/Lists.php
+END
+Extended.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/parsers/HTML/BBCodeParser/Filter/Extended.php
+END
+Links.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/parsers/HTML/BBCodeParser/Filter/Links.php
+END
+Basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/parsers/HTML/BBCodeParser/Filter/Basic.php
+END
+Images.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/parsers/HTML/BBCodeParser/Filter/Images.php
+END
+EmailLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/parsers/HTML/BBCodeParser/Filter/EmailLinks.php
+END

@@ -1,0 +1,247 @@
+* { padding: 0; margin: 0; }
+
+body {
+ font-family: Helvetica, Arial, san-serif;
+ font-size: 13px;
+}
+a img{
+border:0;
+}
+#wrapper { 
+ margin: 0 auto;
+ width: 1020px;
+}
+#header {
+ color: #333;
+ width: 960px;
+ float: left;
+ padding: 10px;
+ border: none;
+ height: 10px;
+ margin: 10px 0px 0px 0px;
+ background:#F6F0E0;
+}
+h1{
+	font-size: 20px;
+	font-family: Helvetica, Caslon, serif;
+	color: 3C3C3C;
+}
+h2{
+	font-size: 16px;
+	font-family: Helvetica, Caslon, serif;
+	color: FFD204;
+}
+h3{
+	font-size: 16px;
+	font-family: Helvetica, Caslon, serif;
+	color: white;
+}
+h5{
+	font-size: 20px;
+	font-family: Helvetica, Arial, san-serif;
+	color: FFD204;
+}
+a{
+	text-decoration:none;
+}
+#navigation {
+ float: right;
+ width: 804px;
+ color: #333;
+ padding-top: 80px;
+ border: none;
+ margin: 0px 0px 0px 0px;
+ background-color:#FFFFFF;
+}
+ul#nav {
+	height: 30px;
+	list-style: none;
+	padding-left: 0px;
+	border-bottom: 2px solid #FFD204;
+	padding-top: 5px
+	}
+	ul#nav li {
+		display: inline;
+		font-size: 1.2em;
+	}
+	ul#nav li a {
+		display: block;
+		width: 200px;
+		float: left;
+		color: 2D2D2D;
+		padding-top: 2px;
+		font-weight: bold;
+		text-align: center;
+		text-transform: uppercase;
+		text-decoration: none;
+		}
+		ul#nav li a:hover, ul#nav li a:active {
+			color: FFD204;
+		}
+		
+#leftcolumn { 
+ color: #333;
+ border: none;
+ background:#F6F0E0;
+ background-image: url(../images/left-bkg.jpg);
+ margin: -40px 0px 0px 0px;
+ padding: 0px;
+ height: 600px;
+ width: 220px;
+ float: left;
+}
+#info {
+text-align: left;
+padding-top: 280px;
+}
+
+/* Home 
+-------------------------------------------- */
+#rightcolumn { 
+ float: left;
+ color: white;
+ border: none;
+ background: #02665e;
+ 
+ margin: 50px 0px 0px 60px;
+ padding-left: 10px;
+ height: 280px;
+ width: 681px;
+}
+#inner_left {
+float:left;
+padding-top: 15px;
+padding-left: 10px;
+padding-right: 135px;
+}
+#inner_left h2 {
+	font-size: 18px;
+}
+#inner_right {
+float:right;
+padding-top:0px;
+margin: -245px 0px 0px 0px;
+}
+
+/* Why Solar 
+-------------------------------------------- */
+#rightcolumn_solar { 
+ float: left;
+ color: white;
+ border: none;
+ background: #999965;
+ 
+ 
+ margin: 50px 0px 0px 60px;
+ padding-left: 10px;
+ height: 280px;
+ width: 681px;
+}
+#inner_left_solar {
+float:left;
+padding-top: 15px;
+padding-left: 10px;
+padding-right: 135px;
+}
+
+#rightcolumn_solar p{
+	margin: 20px 0px 0px 20px;
+}
+
+#inner_right_solar {
+float:right;
+padding-top:0px;
+}
+
+/* How It Works 
+-------------------------------------------- */
+#rightcolumn_works { 
+ float: left;
+ color: white;
+ border: none;
+ background: #EDA100;
+ margin: 50px 0px 0px 60px;
+ height: 500px;
+ width: 681px;
+}
+
+#inner_left_works {
+float:left;
+padding-top: 30px;
+padding-left: 30px;
+padding-right: 30px;
+}
+
+#inner_right_works {
+padding-top:446px;
+}
+
+/* Incentives and Benefits 
+-------------------------------------------- */
+#rightcolumn_incentives { 
+ float: left;
+ color: white;
+ border: none;
+ background: #024D4F;
+ 
+ margin: 25px 0px 0px 25px;
+ height: 500px;
+ width: 702px;
+}
+#inner_left_incentives h2 {
+	color:ffec9a
+}
+#inner_left_incentives {
+float:left;	
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 15px;
+padding-top: 15px;
+}
+
+#inner_right_incentives {
+padding-top: 400px;
+}
+
+/* Who is G8
+-------------------------------------------- */
+#rightcolumn_who { 
+ float: left;
+ color: 3C3C3C;
+ font-size:18px;
+ background: none;
+ 
+ height: 90px;
+ width: 775px;
+ padding-left:25px;
+ padding-top: 50px;
+}
+
+#inner_right_left_who {
+height: 209px;
+width: 140px;
+float: left;
+padding-top: 20px;
+padding-left: 60px;
+}
+
+#inner_right_middle_who {
+height: 209px;
+width: 121px;
+float: left;
+padding-top: 20px;
+}
+#inner_right_right_who {
+height: 203px;
+width: 362px;
+float: right;
+padding-top: 15px;
+padding-right: 110px;
+}
+#bottom{
+border-top: 1.5px solid #FFD204;
+padding-top: 18px;
+margin: -20px;
+font-weight: bold;
+}
+

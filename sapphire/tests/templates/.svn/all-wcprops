@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/101868/open/modules/sapphire/branches/2.4/tests/templates
+END
+ControllerTest_templateaction.ss
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/templates/ControllerTest_templateaction.ss
+END
+SSViewerTestPartialTemplate.ss
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/templates/SSViewerTestPartialTemplate.ss
+END
+ControllerTest.ss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/templates/ControllerTest.ss
+END
+RequirementsTest_Conditionals.ss
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/101868/open/modules/sapphire/branches/2.4/tests/templates/RequirementsTest_Conditionals.ss
+END

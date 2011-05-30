@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/dev
+END
+CliTestReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/103391/open/modules/sapphire/branches/2.4/dev/CliTestReporter.php
+END
+TaskRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/107415/open/modules/sapphire/branches/2.4/dev/TaskRunner.php
+END
+CodeViewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/dev/CodeViewer.php
+END
+InstallerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/dev/InstallerTest.php
+END
+SapphireTestReporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/103398/open/modules/sapphire/branches/2.4/dev/SapphireTestReporter.php
+END
+SapphireREPL.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/dev/SapphireREPL.php
+END
+FunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/98224/open/modules/sapphire/branches/2.4/dev/FunctionalTest.php
+END
+Cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/101172/open/modules/sapphire/branches/2.4/dev/Cli.php
+END
+CSVParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/dev/CSVParser.php
+END
+TestRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/106877/open/modules/sapphire/branches/2.4/dev/TestRunner.php
+END
+SapphireTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/107415/open/modules/sapphire/branches/2.4/dev/SapphireTest.php
+END
+MigrationTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/dev/MigrationTask.php
+END
+LogFileWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/dev/LogFileWriter.php
+END
+Backtrace.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/dev/Backtrace.php
+END
+DebugView.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/107415/open/modules/sapphire/branches/2.4/dev/DebugView.php
+END
+ModelViewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/dev/ModelViewer.php
+END
+BulkLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/dev/BulkLoader.php
+END
+Debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/106867/open/modules/sapphire/branches/2.4/dev/Debug.php
+END
+LogErrorEmailFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/dev/LogErrorEmailFormatter.php
+END
+DevelopmentAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/107415/open/modules/sapphire/branches/2.4/dev/DevelopmentAdmin.php
+END
+CSSContentParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/105126/open/modules/sapphire/branches/2.4/dev/CSSContentParser.php
+END
+CsvBulkLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/91568/open/modules/sapphire/branches/2.4/dev/CsvBulkLoader.php
+END
+TestViewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/dev/TestViewer.php
+END
+ZendLog.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/103398/open/modules/sapphire/branches/2.4/dev/ZendLog.php
+END
+JSTestRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/dev/JSTestRunner.php
+END
+TestMailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/dev/TestMailer.php
+END
+CliDebugView.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/97038/open/modules/sapphire/branches/2.4/dev/CliDebugView.php
+END
+LogErrorFileFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/dev/LogErrorFileFormatter.php
+END
+TestOnly.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/dev/TestOnly.php
+END
+Log.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/dev/Log.php
+END
+BuildTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/dev/BuildTask.php
+END
+TestSession.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/104972/open/modules/sapphire/branches/2.4/dev/TestSession.php
+END
+SapphireTestSuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/96727/open/modules/sapphire/branches/2.4/dev/SapphireTestSuite.php
+END
+LogEmailWriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/dev/LogEmailWriter.php
+END
+SapphireInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/97728/open/modules/sapphire/branches/2.4/dev/SapphireInfo.php
+END

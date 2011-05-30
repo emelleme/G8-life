@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/107539/open/modules/sapphire/branches/2.4/tests/filesystem
+END
+FileTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/107273/open/modules/sapphire/branches/2.4/tests/filesystem/FileTest.yml
+END
+FolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/107276/open/modules/sapphire/branches/2.4/tests/filesystem/FolderTest.php
+END
+UploadTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/filesystem/UploadTest.yml
+END
+FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/107539/open/modules/sapphire/branches/2.4/tests/filesystem/FileTest.php
+END
+UploadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/104050/open/modules/sapphire/branches/2.4/tests/filesystem/UploadTest.php
+END

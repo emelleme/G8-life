@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/107811/open/modules/sapphire/branches/2.4/forms
+END
+CheckboxField.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/CheckboxField.php
+END
+FormTransformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/FormTransformation.php
+END
+TableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/96427/open/modules/sapphire/branches/2.4/forms/TableField.php
+END
+MoneyField.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/100975/open/modules/sapphire/branches/2.4/forms/MoneyField.php
+END
+HtmlEditorConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/forms/HtmlEditorConfig.php
+END
+TimeField.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/107810/open/modules/sapphire/branches/2.4/forms/TimeField.php
+END
+Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/105912/open/modules/sapphire/branches/2.4/forms/Form.php
+END
+NumericField.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/97482/open/modules/sapphire/branches/2.4/forms/NumericField.php
+END
+CompositeField.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/CompositeField.php
+END
+FormField.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/104404/open/modules/sapphire/branches/2.4/forms/FormField.php
+END
+TabSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/TabSet.php
+END
+LabelField.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/97013/open/modules/sapphire/branches/2.4/forms/LabelField.php
+END
+ComplexTableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/106755/open/modules/sapphire/branches/2.4/forms/ComplexTableField.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/93611/open/modules/sapphire/branches/2.4/forms/Validator.php
+END
+FormScaffolder.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/100998/open/modules/sapphire/branches/2.4/forms/FormScaffolder.php
+END
+HeaderField.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/HeaderField.php
+END
+ConfirmedPasswordField.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/93611/open/modules/sapphire/branches/2.4/forms/ConfirmedPasswordField.php
+END
+HiddenField.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/HiddenField.php
+END
+SimpleImageField.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/SimpleImageField.php
+END
+DropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/DropdownField.php
+END
+DatetimeField.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/107811/open/modules/sapphire/branches/2.4/forms/DatetimeField.php
+END
+FormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/FormAction.php
+END
+NullableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/103388/open/modules/sapphire/branches/2.4/forms/NullableField.php
+END
+ResetFormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/ResetFormAction.php
+END
+ReadonlyTransformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/ReadonlyTransformation.php
+END
+TreeSelectorField.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/93611/open/modules/sapphire/branches/2.4/forms/TreeSelectorField.php
+END
+PasswordField.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/PasswordField.php
+END
+CheckboxSetField.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/104404/open/modules/sapphire/branches/2.4/forms/CheckboxSetField.php
+END
+PrintableTransformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/PrintableTransformation.php
+END
+FileIFrameField.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/107440/open/modules/sapphire/branches/2.4/forms/FileIFrameField.php
+END
+CreditCardField.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/CreditCardField.php
+END
+DateField.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/107789/open/modules/sapphire/branches/2.4/forms/DateField.php
+END
+HasOneComplexTableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/HasOneComplexTableField.php
+END
+ScaffoldingComplexTableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/ScaffoldingComplexTableField.php
+END
+FileField.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/FileField.php
+END
+CountryDropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/CountryDropdownField.php
+END
+ToggleField.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/93611/open/modules/sapphire/branches/2.4/forms/ToggleField.php
+END
+PhoneNumberField.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/PhoneNumberField.php
+END
+GroupedDropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/GroupedDropdownField.php
+END
+TableListField.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/107417/open/modules/sapphire/branches/2.4/forms/TableListField.php
+END
+TextField.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/99360/open/modules/sapphire/branches/2.4/forms/TextField.php
+END
+ListboxField.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/ListboxField.php
+END
+ManyManyComplexTableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/ManyManyComplexTableField.php
+END
+DisabledTransformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/DisabledTransformation.php
+END
+CurrencyField.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/103451/open/modules/sapphire/branches/2.4/forms/CurrencyField.php
+END
+FieldSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/105274/open/modules/sapphire/branches/2.4/forms/FieldSet.php
+END
+LiteralField.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/LiteralField.php
+END
+LanguageDropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/LanguageDropdownField.php
+END
+ImageFormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/100886/open/modules/sapphire/branches/2.4/forms/ImageFormAction.php
+END
+RequiredFields.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/106568/open/modules/sapphire/branches/2.4/forms/RequiredFields.php
+END
+ToggleCompositeField.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/93611/open/modules/sapphire/branches/2.4/forms/ToggleCompositeField.php
+END
+UniqueRestrictedTextField.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/100486/open/modules/sapphire/branches/2.4/forms/UniqueRestrictedTextField.php
+END
+AutocompleteTextField.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/107054/open/modules/sapphire/branches/2.4/forms/AutocompleteTextField.php
+END
+TabularStyle.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/TabularStyle.php
+END
+TreeDropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/TreeDropdownField.php
+END
+RestrictedTextField.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/100486/open/modules/sapphire/branches/2.4/forms/RestrictedTextField.php
+END
+OptionsetField.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/OptionsetField.php
+END
+EmailField.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/100950/open/modules/sapphire/branches/2.4/forms/EmailField.php
+END
+InlineFormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/InlineFormAction.php
+END
+FieldGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/FieldGroup.php
+END
+SelectionGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/100884/open/modules/sapphire/branches/2.4/forms/SelectionGroup.php
+END
+CustomRequiredFields.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/CustomRequiredFields.php
+END
+DatalessField.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/DatalessField.php
+END
+HasManyComplexTableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/HasManyComplexTableField.php
+END
+Tab.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/Tab.php
+END
+NestedForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/NestedForm.php
+END
+LookupField.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/LookupField.php
+END
+TreeMultiselectField.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/TreeMultiselectField.php
+END
+HtmlEditorField.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/107390/open/modules/sapphire/branches/2.4/forms/HtmlEditorField.php
+END
+UniqueTextField.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/UniqueTextField.php
+END
+ReadonlyField.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/ReadonlyField.php
+END
+TextareaField.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/TextareaField.php
+END
+AjaxUniqueTextField.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/forms/AjaxUniqueTextField.php
+END
+ImageField.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/107725/open/modules/sapphire/branches/2.4/forms/ImageField.php
+END

@@ -1,0 +1,71 @@
+#general {
+height:700px;
+border:solid 1px;
+border-color:#FFFFFF #B7B7B7 #FFFFFF;
+margin-top:25px;
+}
+
+#square {
+margin-top:-20px;
+text-align:right;
+margin-right:13px;
+}
+
+#header-img{
+margin-top:0px;
+}
+#top-buttons{
+	text-align:left;
+}
+#txt{
+font-family:Arial;
+font-size:12px;
+color:#636363;
+margin-left:20px;
+width:320px;
+margin-top:10px;
+text-align:left;
+}
+
+#imgtitle1{
+margin-top:-105px;
+text-align:left;
+
+}
+#imgtitle{
+margin-top:-129px;
+text-align:left;
+}
+
+#page {
+	
+	}
+	
+	body{
+	text-align: center;
+	margin-top:27px;
+	
+	}
+.special {
+color:#87CDF6;
+font-weight:strong;
+}
+
+.faq{
+font-weight:bold;
+color:black;
+text-align:left;
+}
+#answer{
+margin-top:15px;
+text-align:left;
+}
+#answer {
+text-align:left;
+margin-top:-505px;
+width:620px;
+font-family:Arial;
+font-size:12px;
+color:#636363;
+margin-left:20px;
+}

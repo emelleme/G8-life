@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/101970/open/modules/sapphire/branches/2.4/tests/api
+END
+RSSFeedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/100400/open/modules/sapphire/branches/2.4/tests/api/RSSFeedTest.php
+END
+RestfulServerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/101970/open/modules/sapphire/branches/2.4/tests/api/RestfulServerTest.php
+END
+RestfulServerTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/91568/open/modules/sapphire/branches/2.4/tests/api/RestfulServerTest.yml
+END
+RestfulServiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/93682/open/modules/sapphire/branches/2.4/tests/api/RestfulServiceTest.php
+END
+SapphireSoapServerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/api/SapphireSoapServerTest.php
+END

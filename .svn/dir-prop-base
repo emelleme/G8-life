@@ -1,0 +1,27 @@
+K 13
+svn:externals
+V 216
+sapphire http://svn.silverstripe.com/open/modules/sapphire/branches/2.4
+cms http://svn.silverstripe.com/open/modules/cms/branches/2.4
+googlesitemaps http://svn.silverstripe.com/open/modules/googlesitemaps/tags/0.1.5
+
+K 10
+svn:ignore
+V 56
+.project
+.cache
+.buildpath
+.settings
+silverstripe-cache
+
+K 13
+svn:mergeinfo
+V 565
+/modules/cms/branches/2.3-nelsoncc:78293
+/open/phpinstaller/branches/2.2.0:44753-46127
+/open/phpinstaller/branches/2.2.1:46128-46129,46141-46831,46863,46939-46940,47255,47423
+/open/phpinstaller/branches/2.3:65807-65808,65835,65837,65846,65957-65958,65980,65983,66295,66297,66314,66328,66886-66887,66890,66896,66906,66916,67085,70996,71924,72337,72495,72504,72928,72995,73166,73224,74816,79222,81646,83449
+/open/phpinstaller/branches/nestedurls:79234
+/open/phpinstaller/tags/rc/2.2.0-rc1:44713-44752
+/open/phpinstaller/trunk:90888,92221-92253,92255-92256,92258,93615
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/105266/open/modules/sapphire/branches/2.4/templates/Includes
+END
+TableListField_SelectOptions.ss
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/105266/open/modules/sapphire/branches/2.4/templates/Includes/TableListField_SelectOptions.ss
+END
+Form.ss
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/Includes/Form.ss
+END
+TableListField_Summary.ss
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/Includes/TableListField_Summary.ss
+END
+TableListField_Item.ss
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/105266/open/modules/sapphire/branches/2.4/templates/Includes/TableListField_Item.ss
+END
+TableListField_Item_export.ss
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/Includes/TableListField_Item_export.ss
+END
+TableListField_PageControls.ss
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/Includes/TableListField_PageControls.ss
+END

@@ -1,0 +1,44 @@
+8
+
+dir
+107921
+http://svn.silverstripe.com/open/modules/sapphire/branches/2.4/parsers/HTML
+http://svn.silverstripe.com
+
+
+
+2010-04-23T00:25:47.389588Z
+103388
+ischommer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+HTMLBBCodeParser.php
+file
+
+
+
+
+2010-07-14T17:05:18.000000Z
+6d7657d05a1081f8a22f7f682f519770
+2010-04-23T00:25:47.389588Z
+103388
+ischommer
+has-props
+
+BBCodeParser
+dir
+

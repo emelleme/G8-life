@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/93532/open/modules/sapphire/branches/2.4/thirdparty/Zend/Log/Writer
+END
+Mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/93532/open/modules/sapphire/branches/2.4/thirdparty/Zend/Log/Writer/Mock.php
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/93532/open/modules/sapphire/branches/2.4/thirdparty/Zend/Log/Writer/Null.php
+END
+Stream.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/93532/open/modules/sapphire/branches/2.4/thirdparty/Zend/Log/Writer/Stream.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/93532/open/modules/sapphire/branches/2.4/thirdparty/Zend/Log/Writer/Mail.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/93532/open/modules/sapphire/branches/2.4/thirdparty/Zend/Log/Writer/Abstract.php
+END
+Firebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/93532/open/modules/sapphire/branches/2.4/thirdparty/Zend/Log/Writer/Firebug.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/93532/open/modules/sapphire/branches/2.4/thirdparty/Zend/Log/Writer/Db.php
+END

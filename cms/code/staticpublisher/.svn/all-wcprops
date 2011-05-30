@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/106122/open/modules/cms/branches/2.4/code/staticpublisher
+END
+htaccess_example_rsyncsingleserver
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/staticpublisher/htaccess_example_rsyncsingleserver
+END
+CachedPHPRedirection.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/staticpublisher/CachedPHPRedirection.tmpl
+END
+CachedPHPPage.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/staticpublisher/CachedPHPPage.tmpl
+END
+FilesystemPublisher.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/106122/open/modules/cms/branches/2.4/code/staticpublisher/FilesystemPublisher.php
+END
+htaccess_example_rsyncwithphp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/staticpublisher/htaccess_example_rsyncwithphp
+END
+RsyncMultiHostPublisher.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/104674/open/modules/cms/branches/2.4/code/staticpublisher/RsyncMultiHostPublisher.php
+END
+StaticPublisher.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/105281/open/modules/cms/branches/2.4/code/staticpublisher/StaticPublisher.php
+END
+htaccess_example_rsyncmultiservers
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/staticpublisher/htaccess_example_rsyncmultiservers
+END

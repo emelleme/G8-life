@@ -1,0 +1,34 @@
+K 13
+svn:eol-style
+V 6
+native
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mergeinfo
+V 2723
+/modules/cms/branches/2.0/templates/email/SubmittedFormEmail.ss:11806-39001
+/modules/cms/branches/2.1.0-rc3oriwave2/templates/email/SubmittedFormEmail.ss:43320-43321,43365,46525-46526,48376,48401,48425
+/modules/cms/branches/2.2.0-mesq/templates/email/SubmittedFormEmail.ss:45692-45987,47617,51659,51920
+/modules/cms/branches/2.2.0-privacy/templates/email/SubmittedFormEmail.ss:46301-46302,46433,46626,46633,46640,46776
+/modules/cms/branches/2.2.1-nzct/templates/email/SubmittedFormEmail.ss:46193,46198,47006-47026,47098-47110,47113
+/modules/cms/branches/2.2.2-caron/templates/email/SubmittedFormEmail.ss:57390
+/modules/cms/trunk/templates/email/SubmittedFormEmail.ss:11669-11804
+/open/modules/cms/branches/2.1.0/templates/email/SubmittedFormEmail.ss:41505-42750
+/open/modules/cms/branches/2.2.0/templates/email/SubmittedFormEmail.ss:44746-45944
+/open/modules/cms/branches/2.2.1/templates/email/SubmittedFormEmail.ss:45945-47145,47147,47181,47183
+/open/modules/cms/branches/2.2.1asfonz/templates/email/SubmittedFormEmail.ss:47146-47151,47157,47172,47174,47190,48463-48464,48466-48467,48474,48503,48565,50187
+/open/modules/cms/branches/2.2.2/templates/email/SubmittedFormEmail.ss:50049-51071,51963,51973,52296,52298,52309,52392-52393,52395,52399,52432,52434,53073,53210,53216,54215,54407,54472,54959,56671
+/open/modules/cms/branches/govtsecurity/templates/email/SubmittedFormEmail.ss:52059,52619,52622-52630,52645,52793,52796-52797,52875
+/open/modules/cms/branches/roa/templates/email/SubmittedFormEmail.ss:51999-52014,52081-52083,52103,52218-52219,52676,52774,52842,52856,52867,52870,53077,53346,53348,53578,53583,53630,53634,53637,53658,53666,53686,53713,53762,53811,53837,53960,54115,54147,54185,54259,54352-54353,54728,54737,54795-54796,54802,54861,55028,55112,55122-55123,55137,55145,55186,55507,55567,55570-55571,55577,55645-55646,55649,55687,56066,56120,56126,56139,56166,56518,56538,56541,57114,57180,57192,57289,57412-57413,57448,57603,57608,57610,57674,58115-58116,58118,58229-58230,58236,58271-58272,58485,58523-58525,58984,59287,59703,59876,61800
+/open/modules/cms/tags/2.2.0/templates/email/SubmittedFormEmail.ss:45874-46300
+/open/modules/cms/tags/rc/2.1.0-rc3/templates/email/SubmittedFormEmail.ss:42751-43319
+/open/modules/cms/tags/rc/2.2-rc1/templates/email/SubmittedFormEmail.ss:44690-44695
+/open/modules/cms/tags/rc/2.2.0-rc1/templates/email/SubmittedFormEmail.ss:44696-44745
+/open/modules/cms/tags/rc/2.2.0-rc3/templates/email/SubmittedFormEmail.ss:45520-45691
+/open/modules/cms/tags/rc/2.2.2-rc2/templates/email/SubmittedFormEmail.ss:51072-51998
+/open/modules/cms/trunk/templates/email/SubmittedFormEmail.ss:39002-50048
+/open/modules/sapphire/branches/roa/templates/email/SubmittedFormEmail.ss:58984,59876
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/110547/open/modules/userforms/trunk/code/migration
+END
+UserFormsMigrationTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/110547/open/modules/userforms/trunk/code/migration/UserFormsMigrationTask.php
+END
+UserFormsVersionedTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/93277/open/modules/userforms/trunk/code/migration/UserFormsVersionedTask.php
+END

@@ -1,0 +1,388 @@
+* { padding: 0; margin: 0; }
+
+body {
+ font-family: 'Linotype Gothic W01 Regular', Helvetica, Arial, san-serif;
+ font-size: 12pt;
+}
+a img{
+border:0;
+}
+#wrapper { 
+ margin: 0 auto;
+ width: 1020px;
+}
+#header {
+ color: #333;
+ width: 960px;
+ float: left;
+ padding: 10px;
+ border: none;
+ height: 10px;
+ margin: 10px 0px 0px 0px;
+ background:#F6F0E0;
+}
+h1{
+	font-size: 16pt;
+	font-family: 'Linotype Gothic W01 Regular', Helvetica, Caslon, serif;
+	color: #3C3C3C;
+	padding-bottom:10px;
+}
+h2{
+	font-size: 13pt;
+	font-family: 'Linotype Gothic W01 Bold', Helvetica, Caslon, serif;
+	color: #FFD204;
+}
+h3{
+	font-size: 14px;
+	font-family: 'Linotype Gothic W01 Bold', Helvetica, Caslon, serif;
+	color: white;
+}
+h5{
+	font-size: 20px;
+	font-family: 'Linotype Gothic W01 Bold',Helvetica, Arial, san-serif;
+	color: #FFD204;
+padding: 0px;
+margin: 0px;
+}
+a{
+	text-decoration:none;
+}
+#navigation {
+ float: right;
+ width: 815px;
+ color: #333;
+ padding-top: 60px;
+ border: none;
+ margin: 0px 0px 0px 0px;
+ background-color:#FFFFFF;
+}
+
+ul#nav {
+	font-family: 'Linotype Gothic W01 Bold',Helvetica, Arial, san-serif;
+	font-size:17px;
+	height: 30px;
+	list-style: none;
+	padding-left: 0px;
+	border-bottom: 2px solid #6E6543;
+	padding-top: 5px
+	}
+	ul#nav li {
+		display: inline;
+		font-size: 1.2em;
+	}
+	
+ul#nav li a {
+	display: block;
+	width: 160px;
+	float: left;
+	color: #2D2D2D;
+	padding-top: 2px;
+	text-align: right;
+	text-transform: uppercase;
+	text-decoration: none;
+	}
+ul#nav li a:hover, ul#nav li a.current, ul#nav li a.section {
+	color: #60a060;
+}
+
+p#sub-nav {
+	font-family: 'Linotype Gothic W01 Bold',Helvetica, Arial, san-serif;
+	font-size:16pt;
+	padding-left: 15px;
+	padding-top: 3px;
+}
+
+p#sub-nav span a{
+	background-color:#6f6645;
+	color:#ffffff;
+	padding:5px;
+	text-transform: uppercase;
+}
+
+p#sub-nav a{
+	color:#ffffff;
+}
+
+	ul#sub-nav li {
+		display: inline;
+		font-size: 1.2em;
+	}
+
+p#sub-nav span a:hover, p#sub-nav span a.current, p#sub-nav span a.section	 {
+	color: #ffffff;
+	background-color: #82A366;
+}
+p#sub-nav span a:visited {
+	color: #ffffff;
+}
+
+
+a.what-is-g8 { width:130px !important;}
+a.who-is-g8 { width:140px !important;}
+a.about { width:140px !important;}
+a.g8-home { width:120px !important;}
+a.faq{ width: 100px !important; }
+
+#incentives-and-benefits{
+width: 240px !important;
+}
+
+
+	
+#leftcolumn { 
+ color: #333;
+ border: none;
+ background-image: url(../images/left-bkg.jpg);
+ margin: -100px 0px 0px 0px;
+ padding: 0px;
+ height: 600px;
+ width: 220px;
+ float: left;
+}
+#info {
+position:relative;
+width:136px;
+font-size: 10pt;
+text-align: left;
+padding-left:4px;
+
+}
+
+#icons{
+position:relative;
+width:136px;
+height:240px;
+font-size: 10pt;
+text-align: center;
+padding-left:4px;
+}
+#icons p{
+padding-top:40px;
+}
+
+a.facebook{
+display:block;
+margin-left:56px;
+width:24px;
+height:24px;
+background-image:url(../img/facebook_bw.png);
+text-indent: -99999px;
+}
+
+a.facebook:hover {
+	background-image:url(../img/facebook.png);
+}
+
+a.twitter{
+display:block;
+margin-left:56px;
+width:24px;
+height:24px;
+background-image:url(../img/twitter_bw.png);
+text-indent: -99999px;
+}
+
+a.twitter:hover {
+	background-image:url(../img/twitter.png);
+}
+
+a.blog{
+display:block;
+margin-left:56px;
+width:24px;
+height:24px;
+background-image:url(../img/blogger_bw.png);
+text-indent: -99999px;
+}
+
+a.blog:hover {
+	background-image:url(../img/blogger.png);
+}
+
+/* Home 
+-------------------------------------------- */
+#rightcolumn { 
+ float: left;
+ border: none;
+ 
+ margin: 20px 0px 0px;
+ height: 280px;
+ width: 790px;
+}
+
+#rightcolumn p, h2, h3{
+}
+
+#rightcolumn ul{
+list-style:none;
+padding-bottom: 10px;
+}
+
+#rightcolumn ul li{
+padding-bottom: 10px;
+}
+
+#inner_left {
+float:left;
+padding-top: 15px;
+padding-left: 10px;
+padding-right: 135px;
+}
+#inner_left h2 {
+	font-size: 18px;
+}
+#inner_right {
+float:right;
+}
+
+/* Why Solar 
+-------------------------------------------- */
+#rightcolumn_solar { 
+ display:none;
+ float: left;
+ color: white;
+ border: none;
+ background: #999965;
+ 
+ 
+ margin: 50px 0px 0px 60px;
+ height: 280px;
+ width: 681px;
+}
+#inner_left_solar {
+float:left;
+padding-top: 15px;
+padding-left: 10px;
+padding-right: 135px;
+}
+
+#rightcolumn_solar p, h2, h3{
+	margin: 5px 0px 0px 10px;
+}
+
+#rightcolumn_solar p{
+	padding:10px;
+}
+
+#inner_right_solar {
+float:right;
+padding-left:10px;
+}
+
+/* How It Works 
+-------------------------------------------- */
+#rightcolumn_works { 
+ display:none;
+ float: left;
+ color: white;
+ border: none;
+ background: #EDA100;
+ margin: 50px 0px 0px 60px;
+ width: 681px;
+}
+
+#rightcolumn_works p, h2, h3{
+	margin: 5px 0px 0px 10px;
+}
+
+#rightcolumn_works p{
+	padding:10px;
+}
+
+#inner_left_works {
+float:left;
+padding-top: 30px;
+padding-left: 30px;
+padding-right: 30px;
+}
+
+#inner_right_works {
+padding-top:446px;
+}
+
+/* Incentives and Benefits 
+-------------------------------------------- */
+#rightcolumn_incentives { 
+ display:none;
+ float: left;
+ color: white;
+ border: none;
+ background: #024D4F;
+ 
+ margin: 50px 0px 0px 60px;
+ width: 681px;
+}
+
+#rightcolumn_incentives h2, h3{
+	margin: 10px 10px 10px 20px;
+}
+
+#rightcolumn_incentives p{
+	padding:0px 20px 10px 20px;
+}
+
+#inner_left_incentives h2 {
+	color:#ffec9a
+}
+#inner_left_incentives {
+float:left;	
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 15px;
+padding-top: 15px;
+}
+
+#inner_right_incentives {
+padding-top: 400px;
+}
+
+/* Who is G8
+-------------------------------------------- */
+.rightcolumn_who { 
+ float: left;
+ color: #3C3C3C;
+ font-size:14pt;
+ background: none;
+ 
+ width: 775px;
+ padding-top: 50px;
+}
+
+#inner_right_left_who {
+position:relative;
+height: 209px;
+width: 140px;
+float: left;
+}
+
+#inner_right_middle_who {
+position:relative;
+height: 209px;
+width: 121px;
+float: left;
+}
+#inner_right_right_who {
+position:relative;
+height: 203px;
+width: 342px;
+float: right;
+}
+#bottom{
+border-top: 1.5px solid #FFD204;
+padding-top: 18px;
+font-weight: bold;
+}
+
+#who-top{
+width:795px;
+height:312px;
+background-image: url(../images/g8-life-who-bg-img.jpg);
+color:white;
+}
+
+#who-top p{
+width: 420px;
+padding: 35px 35px 0px;
+font-size:14pt;
+}
+

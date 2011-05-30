@@ -1,0 +1,54 @@
+8
+
+dir
+107921
+http://svn.silverstripe.com/open/modules/sapphire/branches/2.4/thirdparty/jquery-form
+http://svn.silverstripe.com
+
+
+
+2010-03-11T02:29:17.070934Z
+100845
+ischommer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+jquery.form.js
+file
+
+
+
+
+2010-07-14T17:05:20.000000Z
+cd29443ff5b4698146542cb348b35a48
+2010-03-11T02:29:17.070934Z
+100845
+ischommer
+has-props
+
+META.json
+file
+
+
+
+
+2010-07-14T17:05:20.000000Z
+5029d980455d0c8f534672e2b78cd9f9
+2009-11-26T03:07:33.099116Z
+93550
+ischommer
+has-props
+

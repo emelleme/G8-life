@@ -1,0 +1,54 @@
+8
+
+dir
+112621
+http://svn.silverstripe.com/open/modules/userforms/trunk/code/migration
+http://svn.silverstripe.com
+
+
+
+2010-09-07T22:44:43.284284Z
+110547
+wrossiter
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+UserFormsMigrationTask.php
+file
+
+
+
+
+2010-10-15T06:48:03.000000Z
+430855e0a96ebe0c9fa35d4e3dfa4df4
+2010-09-07T22:44:43.284284Z
+110547
+wrossiter
+has-props
+
+UserFormsVersionedTask.php
+file
+
+
+
+
+2010-10-15T06:48:03.000000Z
+76a49e09e412f3bb50270a51b20eaeff
+2009-11-24T21:07:36.906015Z
+93277
+wrossiter
+has-props
+

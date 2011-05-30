@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/107366/open/phpinstaller/branches/2.4
+END
+UPGRADING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/100558/open/phpinstaller/branches/2.4/UPGRADING
+END
+.mergesources.yml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/95206/open/phpinstaller/branches/2.4/.mergesources.yml
+END
+web.config
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/100553/open/phpinstaller/branches/2.4/web.config
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/100557/open/phpinstaller/branches/2.4/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/92274/open/phpinstaller/branches/2.4/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/90862/open/phpinstaller/branches/2.4/COPYING
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/102276/open/phpinstaller/branches/2.4/.htaccess
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/107366/open/phpinstaller/branches/2.4/install.php
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/103746/open/phpinstaller/branches/2.4/Makefile
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/98038/open/phpinstaller/branches/2.4/index.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/90862/open/phpinstaller/branches/2.4/favicon.ico
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/107784/open/modules/cms/branches/2.4/code
+END
+AssetTableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/104987/open/modules/cms/branches/2.4/code/AssetTableField.php
+END
+CMSSiteTreeFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/103397/open/modules/cms/branches/2.4/code/CMSSiteTreeFilter.php
+END
+HTMLCleaner.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/103397/open/modules/cms/branches/2.4/code/HTMLCleaner.php
+END
+CMSMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/107726/open/modules/cms/branches/2.4/code/CMSMenu.php
+END
+Diff.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/104675/open/modules/cms/branches/2.4/code/Diff.php
+END
+ModelAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/105985/open/modules/cms/branches/2.4/code/ModelAdmin.php
+END
+ThumbnailStripField.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/106194/open/modules/cms/branches/2.4/code/ThumbnailStripField.php
+END
+GroupImportForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/100496/open/modules/cms/branches/2.4/code/GroupImportForm.php
+END
+FileList.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/FileList.php
+END
+CommentAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/105868/open/modules/cms/branches/2.4/code/CommentAdmin.php
+END
+Report.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/103932/open/modules/cms/branches/2.4/code/Report.php
+END
+CommentTableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/105277/open/modules/cms/branches/2.4/code/CommentTableField.php
+END
+SideReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/103386/open/modules/cms/branches/2.4/code/SideReport.php
+END
+SecurityAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/105267/open/modules/cms/branches/2.4/code/SecurityAdmin.php
+END
+CMSActionOptionsForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/CMSActionOptionsForm.php
+END
+CMSBatchActionHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/100485/open/modules/cms/branches/2.4/code/CMSBatchActionHandler.php
+END
+StaticExporter.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/107726/open/modules/cms/branches/2.4/code/StaticExporter.php
+END
+LeftAndMain.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/107327/open/modules/cms/branches/2.4/code/LeftAndMain.php
+END
+CMSBatchAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/103397/open/modules/cms/branches/2.4/code/CMSBatchAction.php
+END
+MemberTableField.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/107525/open/modules/cms/branches/2.4/code/MemberTableField.php
+END
+WidgetAreaEditor.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/97532/open/modules/cms/branches/2.4/code/WidgetAreaEditor.php
+END
+ReportAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/100485/open/modules/cms/branches/2.4/code/ReportAdmin.php
+END
+LeftAndMainDecorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/LeftAndMainDecorator.php
+END
+CMSMenuItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/90860/open/modules/cms/branches/2.4/code/CMSMenuItem.php
+END
+MemberImportForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/100496/open/modules/cms/branches/2.4/code/MemberImportForm.php
+END
+CMSMain.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/107784/open/modules/cms/branches/2.4/code/CMSMain.php
+END
+AssetAdmin.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/106360/open/modules/cms/branches/2.4/code/AssetAdmin.php
+END

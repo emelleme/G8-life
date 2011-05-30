@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/107789/open/modules/sapphire/branches/2.4/tests/forms
+END
+CheckboxFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/96734/open/modules/sapphire/branches/2.4/tests/forms/CheckboxFieldTest.php
+END
+MoneyFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/96734/open/modules/sapphire/branches/2.4/tests/forms/MoneyFieldTest.php
+END
+TableFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/96734/open/modules/sapphire/branches/2.4/tests/forms/TableFieldTest.php
+END
+ComplexTableFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/ComplexTableFieldTest.yml
+END
+FieldSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/FieldSetTest.php
+END
+TimeFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/99360/open/modules/sapphire/branches/2.4/tests/forms/TimeFieldTest.php
+END
+FormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/96734/open/modules/sapphire/branches/2.4/tests/forms/FormTest.php
+END
+CompositeFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/CompositeFieldTest.php
+END
+FormScaffolderTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/FormScaffolderTest.yml
+END
+MemberDatetimeOptionsetFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/107326/open/modules/sapphire/branches/2.4/tests/forms/MemberDatetimeOptionsetFieldTest.yml
+END
+FormFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/FormFieldTest.php
+END
+RequirementsTest_b.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/RequirementsTest_b.js
+END
+DatefieldViewJQueryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/107438/open/modules/sapphire/branches/2.4/tests/forms/DatefieldViewJQueryTest.php
+END
+CheckboxSetFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/CheckboxSetFieldTest.yml
+END
+ComplexTableFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/96734/open/modules/sapphire/branches/2.4/tests/forms/ComplexTableFieldTest.php
+END
+OptionsetFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/99664/open/modules/sapphire/branches/2.4/tests/forms/OptionsetFieldTest.php
+END
+HtmlEditorFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/HtmlEditorFieldTest.yml
+END
+EmailFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/100950/open/modules/sapphire/branches/2.4/tests/forms/EmailFieldTest.php
+END
+FormScaffolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/96734/open/modules/sapphire/branches/2.4/tests/forms/FormScaffolderTest.php
+END
+MemberDatetimeOptionsetFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/107326/open/modules/sapphire/branches/2.4/tests/forms/MemberDatetimeOptionsetFieldTest.php
+END
+ConfirmedPasswordFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/ConfirmedPasswordFieldTest.php
+END
+DatetimeFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/107438/open/modules/sapphire/branches/2.4/tests/forms/DatetimeFieldTest.php
+END
+DropdownFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/DropdownFieldTest.php
+END
+TableListFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/105266/open/modules/sapphire/branches/2.4/tests/forms/TableListFieldTest.yml
+END
+TableFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/TableFieldTest.yml
+END
+CheckboxSetFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/99664/open/modules/sapphire/branches/2.4/tests/forms/CheckboxSetFieldTest.php
+END
+RequirementsTest_a.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/RequirementsTest_a.js
+END
+RequirementsTest_c.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/RequirementsTest_c.js
+END
+FormTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/FormTest.yml
+END
+HtmlEditorFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/104442/open/modules/sapphire/branches/2.4/tests/forms/HtmlEditorFieldTest.php
+END
+DateFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/107789/open/modules/sapphire/branches/2.4/tests/forms/DateFieldTest.php
+END
+TextareaFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/TextareaFieldTest.php
+END
+RequirementsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/107091/open/modules/sapphire/branches/2.4/tests/forms/RequirementsTest.php
+END
+RequirementsTest_a.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/RequirementsTest_a.css
+END
+RequirementsTest_b.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/RequirementsTest_b.css
+END
+NullableFieldTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/NullableFieldTests.php
+END
+RequirementsTest_c.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/forms/RequirementsTest_c.css
+END
+TableListFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/105872/open/modules/sapphire/branches/2.4/tests/forms/TableListFieldTest.php
+END

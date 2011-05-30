@@ -1,0 +1,100 @@
+8
+
+dir
+112621
+http://svn.silverstripe.com/open/modules/userforms/trunk
+http://svn.silverstripe.com
+
+
+
+2010-10-13T21:07:53.648247Z
+112243
+wrossiter
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+lang
+dir
+
+tests
+dir
+
+LICENSE
+file
+
+
+
+
+2010-10-15T06:48:04.000000Z
+3e1c4b851e4a4cdbef29cbe157d7866a
+2009-07-26T22:30:27.978038Z
+82667
+wrossiter
+
+images
+dir
+
+javascript
+dir
+
+ChangeLog
+file
+
+
+
+
+2010-10-15T06:48:04.000000Z
+f0ce29b97b49c132e2e6addafaee76db
+2010-05-31T10:16:23.767577Z
+105955
+wrossiter
+
+css
+dir
+
+code
+dir
+
+thirdparty
+dir
+
+_config.php
+file
+
+
+
+
+2010-10-15T06:48:04.000000Z
+7cac0531b701686ee081f5379043b891
+2008-09-29T03:18:23.482479Z
+63249
+sharvey
+
+README
+file
+
+
+
+
+2010-10-15T06:48:04.000000Z
+e6bb639846e1586022e93b3e010f2ca5
+2010-10-07T23:06:49.627321Z
+111810
+muzdowski
+
+templates
+dir
+

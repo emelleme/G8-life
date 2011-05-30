@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/111357/open/modules/subsites/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/62524/open/modules/subsites/trunk/LICENSE
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/62524/open/modules/subsites/trunk/CHANGELOG
+END
+_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/101402/open/modules/subsites/trunk/_config.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/103754/open/modules/subsites/trunk/README
+END

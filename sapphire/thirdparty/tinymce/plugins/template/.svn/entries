@@ -1,0 +1,85 @@
+8
+
+dir
+107921
+http://svn.silverstripe.com/open/modules/sapphire/branches/2.4/thirdparty/tinymce/plugins/template
+http://svn.silverstripe.com
+
+
+
+2009-06-15T01:18:58.327203Z
+79131
+sharvey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+editor_plugin.js
+file
+
+
+
+
+2010-07-14T17:05:25.000000Z
+59377ca95a64aa8412bf4258112db84e
+2009-06-15T01:18:58.327203Z
+79131
+sharvey
+
+template.htm
+file
+
+
+
+
+2010-07-14T17:05:25.000000Z
+5120bea9d8a19ac903554953c6f5b75d
+2009-06-15T01:18:58.327203Z
+79131
+sharvey
+
+langs
+dir
+
+editor_plugin_src.js
+file
+
+
+
+
+2010-07-14T17:05:25.000000Z
+d366df72a7b56db7914d320e5f7800e0
+2009-06-15T01:18:58.327203Z
+79131
+sharvey
+
+css
+dir
+
+js
+dir
+
+blank.htm
+file
+
+
+
+
+2010-07-14T17:05:25.000000Z
+9553e76581d74579d23bea5c7ea8a807
+2009-06-15T01:18:58.327203Z
+79131
+sharvey
+

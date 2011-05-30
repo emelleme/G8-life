@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/email
+END
+ForgotPasswordEmail.ss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/email/ForgotPasswordEmail.ss
+END
+ChangePasswordEmail.ss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/email/ChangePasswordEmail.ss
+END
+GenericEmail.ss
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/templates/email/GenericEmail.ss
+END

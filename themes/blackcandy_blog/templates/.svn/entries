@@ -1,0 +1,41 @@
+8
+
+dir
+107921
+http://svn.silverstripe.com/open/themes/blackcandy/branches/2.4/blackcandy_blog/templates
+http://svn.silverstripe.com
+
+
+
+2009-10-22T21:21:12.540698Z
+89988
+aoneil
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+WidgetHolder.ss
+file
+
+
+
+
+2010-07-14T17:06:06.000000Z
+bd6ed88578479f271294fe1c2fbf234b
+2009-10-22T21:21:12.540698Z
+89988
+aoneil
+has-props
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/111818/open/modules/userforms/trunk/tests
+END
+FieldEditorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/110575/open/modules/userforms/trunk/tests/FieldEditorTest.php
+END
+UserDefinedFormTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/110575/open/modules/userforms/trunk/tests/UserDefinedFormTest.yml
+END
+SubmittedFormTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/111810/open/modules/userforms/trunk/tests/SubmittedFormTest.yml
+END
+EditableFormFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/110969/open/modules/userforms/trunk/tests/EditableFormFieldTest.php
+END
+UserDefinedFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/110558/open/modules/userforms/trunk/tests/UserDefinedFormTest.php
+END
+SubmittedFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/111818/open/modules/userforms/trunk/tests/SubmittedFormTest.php
+END
+UserDefinedFormControllerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/110547/open/modules/userforms/trunk/tests/UserDefinedFormControllerTest.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/106071/open/modules/sapphire/branches/2.4/dev/install
+END
+install.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/105030/open/modules/sapphire/branches/2.4/dev/install/install.js
+END
+DatabaseConfigurationHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/104924/open/modules/sapphire/branches/2.4/dev/install/DatabaseConfigurationHelper.php
+END
+DatabaseAdapterRegistry.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/101054/open/modules/sapphire/branches/2.4/dev/install/DatabaseAdapterRegistry.php
+END
+MySQLDatabaseConfigurationHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/106071/open/modules/sapphire/branches/2.4/dev/install/MySQLDatabaseConfigurationHelper.php
+END
+config-form.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/105029/open/modules/sapphire/branches/2.4/dev/install/config-form.html
+END
+install.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/105029/open/modules/sapphire/branches/2.4/dev/install/install.css
+END
+php5-required.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/100988/open/modules/sapphire/branches/2.4/dev/install/php5-required.html
+END

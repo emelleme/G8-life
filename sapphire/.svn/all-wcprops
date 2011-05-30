@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/107878/open/modules/sapphire/branches/2.4
+END
+cli-script.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/107369/open/modules/sapphire/branches/2.4/cli-script.php
+END
+main.php5
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/main.php5
+END
+static-main.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/103961/open/modules/sapphire/branches/2.4/static-main.php
+END
+silverstripe_version
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/silverstripe_version
+END
+sake
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/104668/open/modules/sapphire/branches/2.4/sake
+END
+_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/105468/open/modules/sapphire/branches/2.4/_config.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/103485/open/modules/sapphire/branches/2.4/main.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/.htaccess
+END
+_register_database.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/104705/open/modules/sapphire/branches/2.4/_register_database.php
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/104666/open/modules/sapphire/branches/2.4/Makefile
+END

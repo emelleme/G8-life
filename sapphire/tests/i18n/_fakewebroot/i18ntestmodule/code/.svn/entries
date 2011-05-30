@@ -1,0 +1,43 @@
+8
+
+dir
+107921
+http://svn.silverstripe.com/open/modules/sapphire/branches/2.4/tests/i18n/_fakewebroot/i18ntestmodule/code
+http://svn.silverstripe.com
+
+
+
+2008-11-01T23:16:45.873787Z
+65057
+ischommer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+subfolder
+dir
+
+i18nTestModule.php
+file
+
+
+
+
+2010-07-14T17:05:29.000000Z
+cc0e309c862355f8947bbf891368994b
+2008-11-01T23:16:45.873787Z
+65057
+ischommer
+

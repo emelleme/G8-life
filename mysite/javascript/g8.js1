@@ -1,0 +1,82 @@
+var currenti=0;
+var topimgObj = [
+	    		{ imgID : "top1", org: "images/house.png",over:"images/m-house-b.png",url:"housedetails.html"},
+	    		{ imgID : "top2", org: "images/current.png",over:"images/current.png",url:"housedetails.html"},
+	    		{ imgID : "top3", org: "images/about.png",over:"images/m-about-b.png",url:"about.html"},
+	    		{ imgID : "top4", org: "images/faq.png",over:"images/m-faq-b.png",url:"faq.html"},
+	    		{ imgID : "top5", org: "images/contact.png",over:"images/contact.png",url:"contact.html"}
+		];
+
+var hm = [
+	    		{ imgID : "hm1", org: "images/details.png",over:"images/details-b.png",title:"images/housedetails-t.png",con:"G-8 is designing and building original, innovative homes that take your commitment to sustainable living seriously. But while good stewardship of the environment is central to our homes, it’s also inseparable from our passion for value, for design, and for community."},
+	    		{ imgID : "hm2", org: "images/exterior.png",over:"images/exterior-b.png",title:"images/exterior-t.png",con:"The exterior or envelope of a G-8 home is completely sealed and insulated. The base slab, foundations, walls and roof are encapsulated in a system of rigid insulation, sprayed foam, waterproofing membrane and a heat-repellent aluminum blanket. Together with double-paned windows, these high-tech features create a climate-resistant interior environment, while they help to reduce the costs of heating and air conditioning. In addition, G-8 homes are designed with front and back recessed facades, which allow winter sun to penetrate the building but also protect the interior from the high summer sun. "},
+	    		{ imgID : "hm3", org: "images/interior.png",over:"images/interior-b.png",title:"images/interior-t.png",con:"<span class='special'>The G-8 Interior: Intelligent Climate Control and Lighting</span><br><br>Inside the G-8 home, heating and cooling are provided by a ductless <span class='special'>split-unit system</span>, which operates only when and where it is needed in designated zones. This cuts down on the needless consumption of energy common in traditional systems.<br><br>The central <span class='special'>floor-through pier</span> layout and fully <span class='special'>operable skylights</span>, enable air to flow naturally throughout the entire building. Likewise, ceiling fans significantly increase the circulation of air, shortening the time needed for heating or cooling the space.<br><br>The combination of well-placed skylights and cut-through floor openings allow daylight to penetrate the building and prolong the daylight, creating a more natural environment and reducing the need for artificial lighting."},
+	    		{ imgID : "hm4", org: "images/water.png",over:"images/water-b.png",title:"images/water-t.png",con:"<span class='special'>The End of Your Water Bill?</span><br><br>The sealed and insulated envelop of the building, together with the use of <span class='special'>photo-voltaic panels and a vacuum-tube solar water heater</span>, will reduce the cost of hot water to close to zero.<br><br>The <span class='special'>rain-water collecting system</span> supplies a G-8 home with cost-free water for most needs by channeling rain to a reservoir from which it is circulated throughout the home, significantly reducing the use of water utility sources.<br><br>Also standard in G-8 design are dual-flush toilets and low-flow shower heads and faucets, which further conserve on household water use."},
+	    		{ imgID : "hm5", org: "images/finish.png",over:"images/finish-b.png",title:"images/finishmat-t.png",con:"<span class='special'>Finish Materials from Responsible Resources </span><br><br>Wherever possible, G-8 homes make use of recycled or renewable materials that have a low impact on the environment. This includes, for example, using flooring made of highly renewable bamboo and countertops and floors made of high quality cement. The paints used in a G-8 home are free of VOCs, volatile organic compounds, and are durable, cost effective and non-toxic."}
+		];
+var aboutm = [
+	    		{ imgID : "aboutm1", org: "images/aboutg8.png",over:"images/aboutg8-b.png",z:"images/aboutg8.png",title:"images/aboutg8-t.png",con:"The G-8 mission is to engage, inspire and win over a diverse community of urban professional homebuyers with our vision of a sustainable lifestyle. <br>Our vision is a balance of four key, interrelated, factors: <br><ul><li>	Stewardship—Like you, we care about the larger issues, the impact of our actions on others and on the environment. A G-8 home is built to be central to your sustainable lifestyle.<li>	Value—These days, few of us have unlimited budgets. We’re convinced that good value in a home is compatible with sustainable living and quality design. We balance green design and building methods with an understanding of your need to live within current economic realities.<li>	Design—Forget your traditional assumptions about rowhouses. These are not your run-of-the-mill floor plans. Created by Nir Mamon, an architect with projects throughout the world, G-8 homes are unique, smart and stylish. </ul>Community—We believe we’re all in this together and that owning a G-8 home is more than a real estate transaction. You’ll be joining a community of other energized, thinking, people who share your values, and are excited to make a statement through sustainable living."},
+	    		{ imgID : "aboutm2", org: "images/g8mission.png",over:"images/g8mission-b.png",z:"images/g8mission.png",title:"images/exterior-t.png",con:"The G-8 mission is to engage, inspire and win over a diverse community of urban professional homebuyers with our vision of a sustainable lifestyle. <br>Our vision is a balance of four key, interrelated, factors: <br><ul><li>	Stewardship—Like you, we care about the larger issues, the impact of our actions on others and on the environment. A G-8 home is built to be central to your sustainable lifestyle.<li>	Value—These days, few of us have unlimited budgets. We’re convinced that good value in a home is compatible with sustainable living and quality design. We balance green design and building methods with an understanding of your need to live within current economic realities.<li>	Design—Forget your traditional assumptions about rowhouses. These are not your run-of-the-mill floor plans. Created by Nir Mamon, an architect with projects throughout the world, G-8 homes are unique, smart and stylish. </ul>Community—We believe we’re all in this together and that owning a G-8 home is more than a real estate transaction. You’ll be joining a community of other energized, thinking, people who share your values, and are excited to make a statement through sustainable living."},
+	    		{ imgID : "aboutm3", org: "images/who.png",over:"images/who-b.png",z:"images/who.png",title:"images/whois-t.png",con:"G-8 co-founders <span class='special'>Dor Berkovitz</span> and  <span class='special'>Nir Mamon</span> are the newest and most innovative developers of environmentally sustainable residential living spaces in urban Philadelphia. They are architects, builders and city dwellers, with a passion for giving people access to a real, sustainable lifestyle—without compromising design or affordable living. [Takes you to Individual Bios]<br><br>G-8 properties are being developed in vibrant communities like <span class='special'>Fishtown, Port Richmond</span> and <span class='special'>Northern Liberties.</span> [When Available, Takes you to Floor Plans and eEventually to Finished Properties]"},
+	    		{ imgID : "aboutm4", org: "images/thepeople.png",over:"images/thepeople-b.png",z:"images/thepeople.png",title:"images/thepoeple-t.png",con:"<span class='special'>Dor Berkovitz</span> is the president of G-8 and one of its two founders. As president, Dor oversees all management operations, logistics and investor relations. His commitment to green living includes standard green energy features and urban gardens in all G-8 communities. This commitment is also personal. Dor plans to live in a <span class='special'>G-8 home</span> as soon as they become available.<br><br>Dor was born in Tel Aviv and immigrated to the United States in 2000 after serving in the Israeli Army and traveling around the world. Dor started his real estate career in New York City as a manager of rental properties and eventually became a commercial and residential real estate broker. Dor moved to Philadelphia in 2005.<br><br>One of Dor’s first major projects in Philadelphia was to restore a large, existing building near Temple University and to convert it into affordable student apartments. The building is now one of the most popular off campus address.<br><br>Dor has developed more than 50 properties throughout the Philadelphia and New York area and frequently consults on green living issues.  <br><br><br><span class='special'>Nir Mamon</span> is the other founding partner of G-8 and an architect with a global clientele. His innovative designs and user-friendly vision of sustainable living are what make our<span class='special'> G-8 homes</span> unique. <br><br>Nir is principal of Mamon Architects in Tel Aviv, Israel. The work of his firm runs the gamut from private, single-family homes to urban blocks and neighborhoods. <br><br>Nir is a well-known and respected entrepreneur, real estate developer and project manager with projects in Israel, Cyprus and Eastern Europe. Philadelphia is the first American city to showcase the work of this award-winning architect.  <br><br>Nir Mamon is an adjunct professor in the School of Architecture at The Bezalel Academy of Arts and Design in Jerusalem, the first school of art and design in Israel.<br>To see the work of Nir Mamon:<a href='http://www.march.co.il/projects/house01/'>Click here</a> "},
+	    		{ imgID : "aboutm5", org: "images/finish.png",over:"images/finish-b.png",z:"images/finish.png",title:"images/finishmat-t.png",con:"housedetails.html"}
+		];
+
+
+function handleOver(m) {
+
+for (i=0;i<5;i++){
+
+	if (topimgObj[i].imgID==m.id) {
+		document.getElementById(topimgObj[i].imgID).src=topimgObj[i].over;
+		}
+	if (hm[i].imgID==m.id) {
+		document.getElementById(hm[i].imgID).src=hm[i].over;
+		}
+if (aboutm[i].imgID==m.id) {
+		document.getElementById(aboutm[i].imgID).src=aboutm[i].over;
+		}
+
+
+	}
+}
+function handleOut(m) {
+for (i=0;i<5;i++){
+
+	if (topimgObj[i].imgID==m.id) {
+		document.getElementById(topimgObj[i].imgID).src=topimgObj[i].org;
+		}
+	if (hm[i].imgID==m.id) {
+		document.getElementById(hm[i].imgID).src=hm[i].org;
+		}
+		if (aboutm[i].imgID==m.id) {
+				document.getElementById(aboutm[i].imgID).src=aboutm[i].org;
+
+		}
+
+
+	}
+}
+
+function go(m) {
+document.location.href=m;
+}
+
+function handleClick(i) {
+document.getElementById('txt').innerHTML=hm[i].con;
+document.getElementById('imgtitle').innerHTML="<img src="+hm[i].title+">";
+
+}
+function handleAbout(i) {
+for (y=0;y<5;y++){
+	aboutm[y].org=aboutm[y].z;
+	document.getElementById(aboutm[y].imgID).src=aboutm[y].org;
+}
+	document.getElementById('txt').innerHTML=aboutm[i].con;
+	document.getElementById('imgtitle').innerHTML="<img src="+aboutm[i].title+">";
+	aboutm[i].org=aboutm[i].over;
+
+
+
+
+}

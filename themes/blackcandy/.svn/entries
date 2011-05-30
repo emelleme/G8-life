@@ -1,0 +1,37 @@
+8
+
+dir
+107921
+http://svn.silverstripe.com/open/themes/blackcandy/branches/2.4/blackcandy
+http://svn.silverstripe.com
+
+
+
+2010-07-12T23:41:49.640924Z
+107813
+sharvey
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+images
+dir
+
+css
+dir
+
+templates
+dir
+

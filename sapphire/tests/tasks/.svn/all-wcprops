@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/98274/open/modules/sapphire/branches/2.4/tests/tasks
+END
+RemoveOrphanedPagesTaskTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/tasks/RemoveOrphanedPagesTaskTest.yml
+END
+MigrateSiteTreeLinkingTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/tasks/MigrateSiteTreeLinkingTaskTest.php
+END
+RemoveOrphanedPagesTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/tasks/RemoveOrphanedPagesTaskTest.php
+END
+EncryptAllPasswordsTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/98274/open/modules/sapphire/branches/2.4/tests/tasks/EncryptAllPasswordsTaskTest.php
+END
+MigrateSiteTreeLinkingTaskTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/tests/tasks/MigrateSiteTreeLinkingTaskTest.yml
+END

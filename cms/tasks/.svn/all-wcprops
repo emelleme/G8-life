@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/107095/open/modules/cms/branches/2.4/tasks
+END
+SiteTreeMaintenanceTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/90860/open/modules/cms/branches/2.4/tasks/SiteTreeMaintenanceTask.php
+END
+FilesystemSyncTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/103386/open/modules/cms/branches/2.4/tasks/FilesystemSyncTask.php
+END
+RebuildStaticCacheTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/107095/open/modules/cms/branches/2.4/tasks/RebuildStaticCacheTask.php
+END

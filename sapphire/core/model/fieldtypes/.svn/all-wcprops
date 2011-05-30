@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/107423/open/modules/sapphire/branches/2.4/core/model/fieldtypes
+END
+DBField.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/DBField.php
+END
+Int.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Int.php
+END
+Currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Currency.php
+END
+Datetime.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Datetime.php
+END
+PrimaryKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/core/model/fieldtypes/PrimaryKey.php
+END
+Decimal.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/100686/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Decimal.php
+END
+Time.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Time.php
+END
+Year.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Year.php
+END
+ForeignKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/core/model/fieldtypes/ForeignKey.php
+END
+Enum.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Enum.php
+END
+Float.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Float.php
+END
+DBLocale.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/93771/open/modules/sapphire/branches/2.4/core/model/fieldtypes/DBLocale.php
+END
+HTMLText.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/HTMLText.php
+END
+Double.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/102460/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Double.php
+END
+StringField.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/103391/open/modules/sapphire/branches/2.4/core/model/fieldtypes/StringField.php
+END
+HTMLVarchar.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/core/model/fieldtypes/HTMLVarchar.php
+END
+CompositeDBField.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/core/model/fieldtypes/CompositeDBField.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/104935/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Date.php
+END
+Percentage.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Percentage.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Boolean.php
+END
+MultiEnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/98043/open/modules/sapphire/branches/2.4/core/model/fieldtypes/MultiEnum.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/107423/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Text.php
+END
+Varchar.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/104157/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Varchar.php
+END
+Money.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/core/model/fieldtypes/Money.php
+END

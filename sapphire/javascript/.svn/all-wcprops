@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/107785/open/modules/sapphire/branches/2.4/javascript
+END
+HasManyFileField.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/101753/open/modules/sapphire/branches/2.4/javascript/HasManyFileField.js
+END
+ImageFormAction.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/100886/open/modules/sapphire/branches/2.4/javascript/ImageFormAction.js
+END
+ComplexTableField_popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/ComplexTableField_popup.js
+END
+NumericField.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/NumericField.js
+END
+FileIFrameField.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/101758/open/modules/sapphire/branches/2.4/javascript/FileIFrameField.js
+END
+ToggleCompositeField.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/ToggleCompositeField.js
+END
+prototype_improvements.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/93580/open/modules/sapphire/branches/2.4/javascript/prototype_improvements.js
+END
+HtmlEditorField.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/97765/open/modules/sapphire/branches/2.4/javascript/HtmlEditorField.js
+END
+PermissionCheckboxSetField.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/103674/open/modules/sapphire/branches/2.4/javascript/PermissionCheckboxSetField.js
+END
+DateField.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/107785/open/modules/sapphire/branches/2.4/javascript/DateField.js
+END
+RelationComplexTableField.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/RelationComplexTableField.js
+END
+ToggleField.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/ToggleField.js
+END
+ScaffoldComplexTableField.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/ScaffoldComplexTableField.js
+END
+TableListField.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/105266/open/modules/sapphire/branches/2.4/javascript/TableListField.js
+END
+jquery_improvements.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/93949/open/modules/sapphire/branches/2.4/javascript/jquery_improvements.js
+END
+TableField.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/101753/open/modules/sapphire/branches/2.4/javascript/TableField.js
+END
+UniqueFields.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/93701/open/modules/sapphire/branches/2.4/javascript/UniqueFields.js
+END
+InlineFormAction.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/InlineFormAction.js
+END
+SelectionGroup.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/100884/open/modules/sapphire/branches/2.4/javascript/SelectionGroup.js
+END
+TreeSelectorField.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/103466/open/modules/sapphire/branches/2.4/javascript/TreeSelectorField.js
+END
+UpdateURL.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/104671/open/modules/sapphire/branches/2.4/javascript/UpdateURL.js
+END
+SilverStripeNavigator.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/100883/open/modules/sapphire/branches/2.4/javascript/SilverStripeNavigator.js
+END
+loader.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/93580/open/modules/sapphire/branches/2.4/javascript/loader.js
+END
+i18nx.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/i18nx.js
+END
+TimeField_dropdown.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/99360/open/modules/sapphire/branches/2.4/javascript/TimeField_dropdown.js
+END
+i18n.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/i18n.js
+END
+tiny_mce_improvements.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/101975/open/modules/sapphire/branches/2.4/javascript/tiny_mce_improvements.js
+END
+ComplexTableField.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/101807/open/modules/sapphire/branches/2.4/javascript/ComplexTableField.js
+END
+Validator.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/Validator.js
+END
+MemberDatetimeOptionsetField.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/107326/open/modules/sapphire/branches/2.4/javascript/MemberDatetimeOptionsetField.js
+END
+ConfirmedPasswordField.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/ConfirmedPasswordField.js
+END
+RedirectorPage.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/RedirectorPage.js
+END
+Security_login.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/90859/open/modules/sapphire/branches/2.4/javascript/Security_login.js
+END
+layout_helpers.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/101753/open/modules/sapphire/branches/2.4/javascript/layout_helpers.js
+END

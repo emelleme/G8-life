@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/111941/open/modules/userforms/trunk/templates
+END
+EditableFormField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/110432/open/modules/userforms/trunk/templates/EditableFormField.ss
+END
+EditableOption.ss
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/110432/open/modules/userforms/trunk/templates/EditableOption.ss
+END
+SubmittedFormReportField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/111941/open/modules/userforms/trunk/templates/SubmittedFormReportField.ss
+END
+ReceivedFormSubmission.ss
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/82003/open/modules/userforms/trunk/templates/ReceivedFormSubmission.ss
+END
+FieldEditor.ss
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/110432/open/modules/userforms/trunk/templates/FieldEditor.ss
+END

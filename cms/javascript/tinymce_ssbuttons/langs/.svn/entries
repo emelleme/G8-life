@@ -1,0 +1,52 @@
+8
+
+dir
+107921
+http://svn.silverstripe.com/open/modules/cms/branches/2.4/javascript/tinymce_ssbuttons/langs
+http://svn.silverstripe.com
+
+
+
+2008-11-10T01:24:06.406095Z
+65508
+ischommer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+467b73ca-7a2a-4603-9d3b-597d59a354a9
+
+de.js
+file
+
+
+
+
+2010-07-14T17:05:43.000000Z
+d7f70e79e280a919dbc9638c5b0cd8a7
+2008-11-10T01:24:06.406095Z
+65508
+ischommer
+
+en.js
+file
+
+
+
+
+2010-07-14T17:05:43.000000Z
+20142e164a43744b62a6d1d139c327a0
+2008-11-10T01:24:06.406095Z
+65508
+ischommer
+

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/105868/open/modules/cms/branches/2.4/templates/Includes
+END
+AssetTableField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/105273/open/modules/cms/branches/2.4/templates/Includes/AssetTableField.ss
+END
+SubscribeSubmission.ss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/SubscribeSubmission.ss
+END
+ReportAdmin_left.ss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/ReportAdmin_left.ss
+END
+CMSMain_left.ss
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/102899/open/modules/cms/branches/2.4/templates/Includes/CMSMain_left.ss
+END
+AssetAdmin_left.ss
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/AssetAdmin_left.ss
+END
+LeftAndMain_rightbottom.ss
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/LeftAndMain_rightbottom.ss
+END
+ModelAdmin_right.ss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/ModelAdmin_right.ss
+END
+Editor_toolbar.ss
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/Editor_toolbar.ss
+END
+CommentAdmin_right.ss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/CommentAdmin_right.ss
+END
+CMSMain_rightbottom.ss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/CMSMain_rightbottom.ss
+END
+ModelAdmin.ss
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/ModelAdmin.ss
+END
+MemberList_Table.ss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/MemberList_Table.ss
+END
+SecurityAdmin_right.ss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/SecurityAdmin_right.ss
+END
+CommentTableField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/105868/open/modules/cms/branches/2.4/templates/Includes/CommentTableField.ss
+END
+ModelAdmin_ImportSpec.ss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/ModelAdmin_ImportSpec.ss
+END
+CommentAdmin_SiteTree.ss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/CommentAdmin_SiteTree.ss
+END
+ReportAdmin_right.ss
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/ReportAdmin_right.ss
+END
+MemberTableField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/105665/open/modules/cms/branches/2.4/templates/Includes/MemberTableField.ss
+END
+MemberList_PageControls.ss
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/MemberList_PageControls.ss
+END
+ModelAdmin_left.ss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/104078/open/modules/cms/branches/2.4/templates/Includes/ModelAdmin_left.ss
+END
+CMSMain_right.ss
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/CMSMain_right.ss
+END
+CommentAdmin_left.ss
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/CommentAdmin_left.ss
+END
+AssetAdmin_right.ss
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/AssetAdmin_right.ss
+END
+ReportAdmin_SiteTree.ss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/ReportAdmin_SiteTree.ss
+END
+CMSTopMenu.ss
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/CMSTopMenu.ss
+END
+ModelAdmin_Results.ss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/ModelAdmin_Results.ss
+END
+SecurityAdmin_left.ss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/90860/open/modules/cms/branches/2.4/templates/Includes/SecurityAdmin_left.ss
+END
